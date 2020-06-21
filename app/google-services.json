@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "976676473289",
+    "firebase_url": "https://authentication-9bf80.firebaseio.com",
+    "project_id": "authentication-9bf80",
+    "storage_bucket": "authentication-9bf80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976676473289:android:cd09349a33d1b5e8454018",
+        "android_client_info": {
+          "package_name": "com.frolix.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976676473289-qdbcf70fa08isemls1415k5fmn9hc0es.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJA7ogVvy9SF8jh-tsYetBxxh5LAR2tZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976676473289-qdbcf70fa08isemls1415k5fmn9hc0es.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
